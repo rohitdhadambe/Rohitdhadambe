@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to Reach Me :   
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rushikesh-wayal-87134a220/)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/RushikeshWaya)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)
 
 ###  Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
